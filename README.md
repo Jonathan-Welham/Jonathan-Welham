@@ -1,22 +1,16 @@
-### Hi there 👋
-
+<br />
+ 
 <!--
 **Jonathan-Welham/Jonathan-Welham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
-<br />
-
-
 ![visitors](https://badges.pufler.dev/visits/Jonathan-Welham/Jonathan-Welham)![years](https://badges.pufler.dev/years/Jonathan-Welham) 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Welham)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
-
-### Languages and Tools:
+## Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Welham&layout=compact)
 
@@ -31,6 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 
+<br />
 <br />
 
 - 🔭 I’m currently working on ... Portfolio website, Passion projects
