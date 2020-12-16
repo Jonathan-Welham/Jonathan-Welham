@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Welham&layout=compact)
 
-![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE) 
-
 - 🔭 I’m currently working on ... Portfolio website, Passion projects
 - 🌱 I’m currently learning ... Scrum methodologies, webscraping, thread/process concepts, Concurrency projects
 - 👯 I’m looking to collaborate on ... ANYTHING
