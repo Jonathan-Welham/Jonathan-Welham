@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m currently working on ... Portfolio website, Passion projects
-- 🌱 I’m currently learning ... Scrum methodologies, webscraping, thread/process concepts, Concurrency projects
-- 👯 I’m looking to collaborate on ... ANYTHING
--  I’m looking for help with ... Getting a full time job as a Software Engineer
+- 🔭 I’m currently working on ... <strong>CAPSTONE</strong>, Portfolio website, Passion projects
+- 🌱 I’m currently learning ... Scrum methodologies, webscraping, thread/process concepts, concurrency topics
+-  Hire me
 - 📫 How to reach me: ... linkedIn or email
