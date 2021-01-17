@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m currently working on ... <strong>CAPSTONE</strong>, Portfolio website, Passion projects
-- 🌱 I’m currently learning ... Scrum methodologies, webscraping, thread/process concepts, concurrency topics
+- 🔭 I’m currently working on ... <strong>CAPSTONE</strong>, Docker/Containerization, Portfolio website
 -  Hire me
-- 📫 How to reach me: ... linkedIn or email
