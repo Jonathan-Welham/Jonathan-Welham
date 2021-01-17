@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 ![visitors](https://badges.pufler.dev/visits/Jonathan-Welham/Jonathan-Welham)![years](https://badges.pufler.dev/years/Jonathan-Welham) 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Welham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Welham)]
+<!--(https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Languages and Tools:
