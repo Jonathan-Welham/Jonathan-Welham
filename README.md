@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m currently working on ... <strong>CAPSTONE</strong>, Docker/Containerization, Portfolio website
+- 🔭 I’m currently working on ... <strong>CAPSTONE</strong>, Docker/Containerization, Learning React, Portfolio website
 -  Hire me
