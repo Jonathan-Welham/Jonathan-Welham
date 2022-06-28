@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m currently working on ... My full time job as a Software Engineer, Cloud Computing projects.
+- 🔭 I’m currently working on ... My full time job as a Software Engineer, Cloud Computing projects, AWS Certifications.
