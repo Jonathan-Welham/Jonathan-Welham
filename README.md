@@ -5,4 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... My full time job as a Software Engineer, Cloud Computing projects, AWS Certifications.
+- 🔭 I’m currently working on
+- My Business LLC
+- Cloud Computing projects
+- AWS Certifications
+- Personal Projects
